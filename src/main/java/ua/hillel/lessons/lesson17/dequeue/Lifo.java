@@ -19,9 +19,9 @@ public class Lifo {
     }
 
     static void linkedListDequeuePush() {
-        dequeList.add(1);
-        dequeList.add(2);
-        dequeList.add(3);
-        dequeList.add(4);
+        dequeList.push(1);
+        dequeList.push(2);
+        dequeList.push(3);
+        dequeList.push(4);
     }
 }

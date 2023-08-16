@@ -17,7 +17,6 @@ public class Fifo {
     static void linkedListQueueElement() {
         System.out.println(integerQueue.element() + "\n");
     }
-
     static void linkedListQueuePeek() {
         System.out.println(integerQueue.peek() + "\n");
     }
@@ -43,7 +42,8 @@ public class Fifo {
 
     static void show() {
         for (Integer i : integerQueue) {
-            System.out.println("\n");
+            System.out.print(i + " ");
         }
+        System.out.println("\n");
     }
 }

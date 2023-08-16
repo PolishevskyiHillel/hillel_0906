@@ -1,6 +1,7 @@
 package ua.hillel.lessons.lesson17.toString;
 
 public class Person {
+
     private String name;
     private int age;
     private boolean retried;
@@ -13,7 +14,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Best Person ever{" +
+        return "Best{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", retried=" + retried +

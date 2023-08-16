@@ -4,146 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="My homework 16">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarPriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/itertor/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/queue/Fifo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/queue/FifoPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/toString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/toString/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Adding Maven to project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarModelComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarYearComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson18/annotations/testng/TestAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm10/HomeWork19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm10/HomeWork19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm2/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm2/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm3/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm3/HomeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm3/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm3/HomeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HomeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HomeWork5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HomeWork6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HomeWork6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HomeWork7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HomeWork7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HomeWork8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HomeWork8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HomeWork9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HomeWork9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm5/HomeWork10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm5/HomeWork10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm5/HomeWork11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm5/HomeWork11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm6/HomeWork12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm6/HomeWork12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm6/HomeWork13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm6/HomeWork13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm7/HomeWork14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm7/HomeWork14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm8/HomeWork15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm8/HomeWork15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm8/HomeWork16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm8/HomeWork16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm9/HomeWork17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm9/HomeWork17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hw13/HomeWork20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw13/HomeWork20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hw16/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw16/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hw16/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw16/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hw16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hw16/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw16/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/TernaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/explicit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructors/explicit/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/explicit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructors/explicit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/implicit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructors/implicit/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/implicit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructors/implicit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/superwithconstructor/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/superwithconstructor/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/superwithconstructor/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/thisexample/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/thisexample/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/TestThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson11/thisexample/TestThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/AboutBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/AboutBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutFinal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutFinal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutFinal/FinalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutFinal/FinalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutStatic/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutStatic/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutStatic/CarChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutStatic/CarChanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutStatic/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutStatic/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutStatic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/aboutStatic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Honda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/BorderMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/BorderMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Parts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Toyota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/VarArgsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/VarArgsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/LocalMethodOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/LocalMethodOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/StaticOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/StaticOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/aninymous/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/aninymous/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/aninymous/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/aninymous/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/classes/inner/aninymous/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/classes/inner/aninymous/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initializationblock/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initializationblock/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initializationblock/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initializationblock/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exeptions/SimpleExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exeptions/SimpleExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exeptions/customexception/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exeptions/customexception/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exeptions/customexception/MyExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exeptions/customexception/MyExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/list/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/map/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson16/map/MapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/set/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson16/set/SetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/set/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson16/set/TreeSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson2/Decrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson2/Increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson2/MyFirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/PostPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson2/PostPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ConditionsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/ConditionsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/HomeWork3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/Lesson3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/arrays/ArraysExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/loops/LoopsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/loops/LoopsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/switchpack/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/switchpack/SwitchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/MethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/MethodStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodsWithParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/MethodsWithParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/ReverseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/ReverseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/RoundExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/RoundExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/SomeStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/SomeStringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/SplitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/SplitExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/randomizer/RandomExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/randomizer/RandomExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringpool/StringPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/stringpool/StringPoolExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/switchinjava/SwitchJava12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/switchinjava/SwitchJava13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/switchinjava/SwitchJava7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/Oop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Pets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Pets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/polymorfizm/OverloadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/polymorfizm/OverloadExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/specific/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/specific/SubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polymorfizm/overload/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txx" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarPriceComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/itertor/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/itertor/IteratorExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,74 +47,35 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/serhii/IdeaProjects/hillel_0906/src",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Fifo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.queue.Fifo" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FifoPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.queue.FifoPriority" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lifo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.dequeue.Lifo" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.dequeue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hw16.Main" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.toString.Main" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.homeworks.hw16.*" />
+          <option name="PATTERN" value="ua.hillel.lessons.lesson17.toString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,15 +83,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson16.map.MapExample" />
+    <configuration name="ua.hillel.lessons.lesson17.comporator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.comporator.Main" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson16.map.*" />
+          <option name="PATTERN" value="ua.hillel.lessons.lesson17.comporator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnnotation (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.annotations.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
+      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnnotation (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.annotations.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
+      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.annotations.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
+      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -263,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.Lifo" />
-        <item itemvalue="Application.FifoPriority" />
-        <item itemvalue="Application.Fifo" />
+        <item itemvalue="Application.ua.hillel.lessons.lesson17.comporator.Main" />
+        <item itemvalue="TestNG.TestAnnotation" />
+        <item itemvalue="TestNG.TestAnnotation (3)" />
+        <item itemvalue="TestNG.TestAnnotation (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691755788096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Maven to project">
+      <option name="closed" value="true" />
+      <created>1692120461071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692120461071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My homework 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="My homework 16" />
+    <MESSAGE value="Adding Maven to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Maven to project" />
   </component>
 </project>
