@@ -1,15 +1,13 @@
 package ua.hillel.homeworks.hm18;
 
 public abstract class Client {
-    protected double balance;
+    private double balance;
 
     public Client(double initialBalance) {
         balance = initialBalance;
     }
 
-    public void deposit(double amount) {
-        balance += amount;
-    }
+    public abstract void deposit(double amount);
 
     public abstract void withdraw(double amount);
 
