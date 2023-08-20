@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Adding Maven to project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarModelComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarYearComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson18/annotations/testng/TestAnnotation.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="HomeWork 18 &#10;Fix balance&#10;Fix deposit">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/chrome/ChromeTestWithDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/chrome/ChromeTestWithDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/dataprovider/ProviderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/FactoryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/lesson19suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/lesson19suite2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/collections/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comparable/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/comporator/CarPriceComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/itertor/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/itertor/IteratorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm18/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_16" />
+        <entry key="$PROJECT_DIR$" value="hw_18" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +56,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src/main/resources&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -66,46 +65,22 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/lesson19/testsuite" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.toString.Main" />
+  <component name="RunManager" selected="TestNG.ChromeTestWithDriverManager (1)">
+    <configuration name="ChromeTestWithDriverManager (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.toString.*" />
+          <option name="PATTERN" value="lesson19.chrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ua.hillel.lessons.lesson17.comporator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.comporator.Main" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.comporator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAnnotation (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson18.annotations.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
-      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
+      <option name="PACKAGE_NAME" value="lesson19.chrome" />
+      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriverManager" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,16 +88,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnnotation (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ChromeTestWithDriverManager" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson18.annotations.testng.*" />
+          <option name="PATTERN" value="lesson19.chrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
-      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
+      <option name="PACKAGE_NAME" value="lesson19.chrome" />
+      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriverManager" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,17 +105,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ChromeTestWithDriver.testOnChrome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson18.annotations.testng.*" />
+          <option name="PATTERN" value="lesson19.chrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
-      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="lesson19.chrome" />
+      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriver" />
+      <option name="METHOD_NAME" value="testOnChrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryClass.testWithFactory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson19.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson19.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="lesson19.testsuite.FactoryClass" />
+      <option name="METHOD_NAME" value="testWithFactory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/serhii/IdeaProjects/hillel_0906/src/test/java/lesson19/testsuite/lesson19suite2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/lesson19/testsuite/lesson19suite2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ua.hillel.lessons.lesson17.comporator.Main" />
-        <item itemvalue="TestNG.TestAnnotation" />
-        <item itemvalue="TestNG.TestAnnotation (3)" />
-        <item itemvalue="TestNG.TestAnnotation (2)" />
+        <item itemvalue="TestNG.FactoryClass.testWithFactory" />
+        <item itemvalue="TestNG.ChromeTestWithDriverManager (1)" />
+        <item itemvalue="TestNG.ChromeTestWithDriverManager" />
+        <item itemvalue="TestNG.ChromeTestWithDriver.testOnChrome" />
+        <item itemvalue="TestNG./Users/serhii/IdeaProjects/hillel_0906/src/test/java/lesson19/testsuite/lesson19suite2.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +186,31 @@
       <option name="project" value="LOCAL" />
       <updated>1692120461071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update info lesson17">
+      <option name="closed" value="true" />
+      <created>1692175706591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692175706591</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomeWork 18 &#10;Clients">
+      <option name="closed" value="true" />
+      <created>1692178244961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692178244961</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HomeWork 18 &#10;Fix balance&#10;Fix deposit">
+      <option name="closed" value="true" />
+      <created>1692208368345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208368345</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +228,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My homework 16" />
     <MESSAGE value="Adding Maven to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Maven to project" />
+    <MESSAGE value="Update info lesson17" />
+    <MESSAGE value="HomeWork 18 &#10;Clients" />
+    <MESSAGE value="HomeWork 18 &#10;Fix balance&#10;Fix deposit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 18 &#10;Fix balance&#10;Fix deposit" />
   </component>
 </project>
