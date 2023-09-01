@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="HomeWork 20&#10;BurgerBuilder">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson21/WebElementSearchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson22/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson22/waits/ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson22/waits/ImplicitWait.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Lesson 22">
+      <change afterPath="$PROJECT_DIR$/TitleAndPrice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeGetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeGetCssValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeInDomExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeIsDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeisDisplayedAndWriteInFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson22/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson22/PracticeGetText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +65,21 @@
       <recent name="$PROJECT_DIR$/src/test/java/lesson19/testsuite" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson23" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.ImplicitWait">
-    <configuration name="ChromeTestWithDriverManager (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PracticeInDomExist.assertTest">
+    <configuration name="PracticeGetCssValue" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.chrome.*" />
+          <option name="PATTERN" value="lesson23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.chrome" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriverManager" />
+      <option name="PACKAGE_NAME" value="lesson23" />
+      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeGetCssValue" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -81,17 +87,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryClass.testWithFactory" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeInDomExist.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.testsuite.*" />
+          <option name="PATTERN" value="lesson23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.testsuite" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.testsuite.FactoryClass" />
-      <option name="METHOD_NAME" value="testWithFactory" />
+      <option name="PACKAGE_NAME" value="lesson23" />
+      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeInDomExist" />
+      <option name="METHOD_NAME" value="assertTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -99,16 +105,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeIsDisplayed.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson22.waits.*" />
+          <option name="PATTERN" value="lesson23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson22.waits" />
-      <option name="MAIN_CLASS_NAME" value="lesson22.waits.ImplicitWait" />
+      <option name="PACKAGE_NAME" value="lesson23" />
+      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeIsDisplayed" />
+      <option name="METHOD_NAME" value="assertTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeisDisplayedAndWriteInFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson23" />
+      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeisDisplayedAndWriteInFile" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -116,34 +140,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebElementSearchExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeisDisplayedAndWriteInFile.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson21.*" />
+          <option name="PATTERN" value="lesson23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson21" />
-      <option name="MAIN_CLASS_NAME" value="lesson21.WebElementSearchExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebElementSearchExample.testOnChrome" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson21" />
-      <option name="MAIN_CLASS_NAME" value="lesson21.WebElementSearchExample" />
-      <option name="METHOD_NAME" value="testOnChrome" />
+      <option name="PACKAGE_NAME" value="lesson23" />
+      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeisDisplayedAndWriteInFile" />
+      <option name="METHOD_NAME" value="assertTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ImplicitWait" />
-        <item itemvalue="TestNG.WebElementSearchExample.testOnChrome" />
-        <item itemvalue="TestNG.WebElementSearchExample" />
-        <item itemvalue="TestNG.FactoryClass.testWithFactory" />
-        <item itemvalue="TestNG.ChromeTestWithDriverManager (1)" />
+        <item itemvalue="TestNG.PracticeInDomExist.assertTest" />
+        <item itemvalue="TestNG.PracticeIsDisplayed.assertTest" />
+        <item itemvalue="TestNG.PracticeisDisplayedAndWriteInFile" />
+        <item itemvalue="TestNG.PracticeisDisplayedAndWriteInFile.assertTest" />
+        <item itemvalue="TestNG.PracticeGetCssValue" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693033962630</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson 22">
+      <option name="closed" value="true" />
+      <created>1693391286342</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693391286342</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +264,7 @@
     <MESSAGE value="HomeWork 18 &#10;Fix balance&#10;Fix deposit" />
     <MESSAGE value="HomeWork 19" />
     <MESSAGE value="HomeWork 20&#10;BurgerBuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 20&#10;BurgerBuilder" />
+    <MESSAGE value="Lesson 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 22" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package lesson22;
+package lesson23;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -12,10 +12,9 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import java.time.Duration;
+import java.util.List;
 
-public class Practice {
-
-    final String EXPECTED_TITLE = "Ноутбук Apple MacBook Air 13 M1 8/256GB 2020 (MGN63) Space Gray";
+public class PracticeInDomExist {
     WebDriver driver;
     WebDriverWait webDriverWait;
 
@@ -30,20 +29,12 @@ public class Practice {
     @Test
     public void assertTest() {
         driver.get("https://rozetka.com.ua/");
-        WebElement inputSearch = driver.findElement(By.name("search"));
-        inputSearch.sendKeys("Mac");
-        WebElement searchBnt = driver.findElement(By.xpath("//button[contains(@class, 'search-form__submit')]"));
-        searchBnt.click();
-        WebElement firstProductTitle = driver.findElement(By.xpath("//span[@class='goods-tile__title']"));
-        String firstProductTitleText = firstProductTitle.getText().trim();
-
-//        if (!firstProductTitleText.contains("MacBook")) {
-//            Assert.fail("Title doesn't contains expected Data");
-//        } else {
-//            System.out.println("All OK!");
-//        }
-
-        Assert.assertEquals(firstProductTitleText, EXPECTED_TITLE, "Title doesn't contains expected Data");
+        List<WebElement> zsy = driver.findElements(By.xpath("//*[@class = 'help-zsu header-actions__component']"));
+        if(zsy.size() > 0) {
+            System.out.println("Zsy Logo exist in DOM");
+        } else {
+            Assert.fail("Zsy logo didn't exist in DOM");
+        }
     }
 
     @AfterTest
