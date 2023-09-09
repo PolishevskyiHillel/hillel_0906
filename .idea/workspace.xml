@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Lesson 22">
-      <change afterPath="$PROJECT_DIR$/TitleAndPrice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeGetAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeGetCssValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeInDomExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeIsDisplayed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeisDisplayedAndWriteInFile.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="HomeWork 27 &#10;Rozetka &#10;TopSale lable">
+      <change afterPath="$PROJECT_DIR$/src/test/java/init/InitialDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson24/PracticeClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson24/PracticeFindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson24/PracticeSubmit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeJsExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeJsExecutor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeJsExecutor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeSelected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeWindowHandles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson22/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson22/PracticeGetText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson23/PracticeInDomExist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson23/PracticeInDomExist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_20" />
+        <entry key="$PROJECT_DIR$" value="hm_23" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,20 +69,21 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson25" />
       <recent name="lesson23" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PracticeInDomExist.assertTest">
-    <configuration name="PracticeGetCssValue" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PracticeWindowHandles.selectedTest">
+    <configuration name="PracticeJsExecutor2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson23" />
-      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeGetCssValue" />
+      <option name="PACKAGE_NAME" value="lesson25" />
+      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeJsExecutor2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -87,52 +91,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeInDomExist.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeJsExecutor3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson23" />
-      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeInDomExist" />
-      <option name="METHOD_NAME" value="assertTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeIsDisplayed.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson23" />
-      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeIsDisplayed" />
-      <option name="METHOD_NAME" value="assertTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeisDisplayedAndWriteInFile" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson23" />
-      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeisDisplayedAndWriteInFile" />
+      <option name="PACKAGE_NAME" value="lesson25" />
+      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeJsExecutor3" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -140,17 +108,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeisDisplayedAndWriteInFile.assertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeJsExecutor3.jsExecutorAlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson23" />
-      <option name="MAIN_CLASS_NAME" value="lesson23.PracticeisDisplayedAndWriteInFile" />
-      <option name="METHOD_NAME" value="assertTest" />
+      <option name="PACKAGE_NAME" value="lesson25" />
+      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeJsExecutor3" />
+      <option name="METHOD_NAME" value="jsExecutorAlertTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeWindowHandles" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson25" />
+      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeWindowHandles" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeWindowHandles.selectedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson25" />
+      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeWindowHandles" />
+      <option name="METHOD_NAME" value="selectedTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PracticeInDomExist.assertTest" />
-        <item itemvalue="TestNG.PracticeIsDisplayed.assertTest" />
-        <item itemvalue="TestNG.PracticeisDisplayedAndWriteInFile" />
-        <item itemvalue="TestNG.PracticeisDisplayedAndWriteInFile.assertTest" />
-        <item itemvalue="TestNG.PracticeGetCssValue" />
+        <item itemvalue="TestNG.PracticeWindowHandles.selectedTest" />
+        <item itemvalue="TestNG.PracticeWindowHandles" />
+        <item itemvalue="TestNG.PracticeJsExecutor3" />
+        <item itemvalue="TestNG.PracticeJsExecutor3.jsExecutorAlertTest" />
+        <item itemvalue="TestNG.PracticeJsExecutor2" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +244,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693391286342</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 23">
+      <option name="closed" value="true" />
+      <created>1693592053493</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693592053493</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HomeWork 27 &#10;Rozetka &#10;TopSale lable">
+      <option name="closed" value="true" />
+      <created>1694171734719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694171734719</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +284,8 @@
     <MESSAGE value="HomeWork 19" />
     <MESSAGE value="HomeWork 20&#10;BurgerBuilder" />
     <MESSAGE value="Lesson 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 22" />
+    <MESSAGE value="Lesson 23" />
+    <MESSAGE value="HomeWork 27 &#10;Rozetka &#10;TopSale lable" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 27 &#10;Rozetka &#10;TopSale lable" />
   </component>
 </project>
