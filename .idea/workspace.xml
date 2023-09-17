@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 29&#10;FileWriter with Rozetka case">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/CheckStatusCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/IFramesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/KeysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/OptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/OptionExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson26/UploadFile.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 30">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hm_25" />
+        <entry key="$PROJECT_DIR$" value="hm_26" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,24 +73,7 @@
       <recent name="lesson23" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.KeysExample.keysTest">
-    <configuration name="CheckStatusCode" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson26" />
-      <option name="MAIN_CLASS_NAME" value="lesson26.CheckStatusCode" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PageObjectExample.testWithPageObject">
     <configuration name="IFramesExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -143,6 +127,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PageObjectExample.testWithPageObject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson27" />
+      <option name="MAIN_CLASS_NAME" value="lesson27.PageObjectExample" />
+      <option name="METHOD_NAME" value="testWithPageObject" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.KeysExample.keysTest" />
-        <item itemvalue="TestNG.CheckStatusCode" />
-        <item itemvalue="TestNG.IFramesExample" />
-        <item itemvalue="TestNG.IFramesExample.iFrame" />
+        <item itemvalue="TestNG.PageObjectExample.testWithPageObject" />
         <item itemvalue="TestNG.UploadFile" />
+        <item itemvalue="TestNG.KeysExample.keysTest" />
+        <item itemvalue="TestNG.IFramesExample.iFrame" />
+        <item itemvalue="TestNG.IFramesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +285,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694348679375</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson 26">
+      <option name="closed" value="true" />
+      <created>1694542684573</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694542684573</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Homework 30">
+      <option name="closed" value="true" />
+      <created>1694966773438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694966773438</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +330,8 @@
     <MESSAGE value="Lesson 25" />
     <MESSAGE value="Homework 28&#10;Rozetka basket case" />
     <MESSAGE value="Homework 29&#10;FileWriter with Rozetka case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 29&#10;FileWriter with Rozetka case" />
+    <MESSAGE value="Lesson 26" />
+    <MESSAGE value="Homework 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 30" />
   </component>
 </project>
