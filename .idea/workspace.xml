@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 30">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Lesson 27 &#10;Only Page Object">
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/SoftAssertExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hm_26" />
+        <entry key="$PROJECT_DIR$" value="hm_27" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,17 +69,17 @@
       <recent name="lesson23" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PageObjectExample.testWithPageObject">
-    <configuration name="IFramesExample" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FirstSelenideTest.selenideSecondTest">
+    <configuration name="FirstSelenideTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson26.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson26" />
-      <option name="MAIN_CLASS_NAME" value="lesson26.IFramesExample" />
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -91,17 +87,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFramesExample.iFrame" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstSelenideTest.selenideSecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson26.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson26" />
-      <option name="MAIN_CLASS_NAME" value="lesson26.IFramesExample" />
-      <option name="METHOD_NAME" value="iFrame" />
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
+      <option name="METHOD_NAME" value="selenideSecondTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -109,35 +105,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeysExample.keysTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SoftAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson26.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson26" />
-      <option name="MAIN_CLASS_NAME" value="lesson26.KeysExample" />
-      <option name="METHOD_NAME" value="keysTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.SoftAssertExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageObjectExample.testWithPageObject" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SoftAssertExample.softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson27.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson27" />
-      <option name="MAIN_CLASS_NAME" value="lesson27.PageObjectExample" />
-      <option name="METHOD_NAME" value="testWithPageObject" />
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.SoftAssertExample" />
+      <option name="METHOD_NAME" value="softAssertExample" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PageObjectExample.testWithPageObject" />
+        <item itemvalue="TestNG.FirstSelenideTest.selenideSecondTest" />
+        <item itemvalue="TestNG.FirstSelenideTest" />
+        <item itemvalue="TestNG.SoftAssertExample.softAssertExample" />
+        <item itemvalue="TestNG.SoftAssertExample" />
         <item itemvalue="TestNG.UploadFile" />
-        <item itemvalue="TestNG.KeysExample.keysTest" />
-        <item itemvalue="TestNG.IFramesExample.iFrame" />
-        <item itemvalue="TestNG.IFramesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694966773438</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lesson 27 &#10;Only Page Object">
+      <option name="closed" value="true" />
+      <created>1694968147578</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694968147578</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +335,7 @@
     <MESSAGE value="Homework 29&#10;FileWriter with Rozetka case" />
     <MESSAGE value="Lesson 26" />
     <MESSAGE value="Homework 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 30" />
+    <MESSAGE value="Lesson 27 &#10;Only Page Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 27 &#10;Only Page Object" />
   </component>
 </project>
