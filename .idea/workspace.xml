@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Lesson 27 &#10;Only Page Object">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/SoftAssertExample.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 32&#10;Rozetka Top Sale PageObject">
+      <change afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/CategoryPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/CategoryPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/MainPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/MainPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/SearchPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/SearchPageLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/PracticeSelenideElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideElementCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideIsDisplayedAndExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideTestSearchElementByText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/WebDriverRunnerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/selenide/pageobject/PracticeSelenideElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/CarForStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFlatHap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleForObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamOtherMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/MainPageLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/MainPageLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/ProductPageLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/ProductPageLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/SearchPageLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/SearchPageLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +57,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hm_27" />
+        <entry key="$PROJECT_DIR$" value="hm_28" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2TlCakyOZKjb1InvPtLbk2pbiw0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +82,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src/main/java/ua/hillel/homeworks/hm29&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src/test/java/homeworks&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -57,113 +91,93 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/homeworks" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/ua/page/object32hm" />
+      <recent name="$PROJECT_DIR$/src/main/java/ua/page" />
       <recent name="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm29" />
-      <recent name="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hw28" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/test/java/lesson19/testsuite" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson30.streamApi" />
+      <recent name="ua.page.selenide" />
+      <recent name="lesson29" />
+      <recent name="homeworks.hm32" />
       <recent name="lesson26" />
-      <recent name="lesson25" />
-      <recent name="lesson23" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirstSelenideTest.selenideSecondTest">
-    <configuration name="FirstSelenideTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.StreamExampleForObject">
+    <configuration name="StreamExampleFlatHap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleFlatHap" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson28" />
-      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSelenideTest.selenideSecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamExampleForObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleForObject" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson28" />
-      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
-      <option name="METHOD_NAME" value="selenideSecondTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamExampleMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleMap" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson28" />
-      <option name="MAIN_CLASS_NAME" value="lesson28.SoftAssertExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftAssertExample.softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamExampleReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleReduce" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson28" />
-      <option name="MAIN_CLASS_NAME" value="lesson28.SoftAssertExample" />
-      <option name="METHOD_NAME" value="softAssertExample" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamOtherMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamOtherMethods" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson26.*" />
+          <option name="PATTERN" value="lesson30.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson26" />
-      <option name="MAIN_CLASS_NAME" value="lesson26.UploadFile" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstSelenideTest.selenideSecondTest" />
-        <item itemvalue="TestNG.FirstSelenideTest" />
-        <item itemvalue="TestNG.SoftAssertExample.softAssertExample" />
-        <item itemvalue="TestNG.SoftAssertExample" />
-        <item itemvalue="TestNG.UploadFile" />
+        <item itemvalue="Application.StreamExampleForObject" />
+        <item itemvalue="Application.StreamOtherMethods" />
+        <item itemvalue="Application.StreamExampleReduce" />
+        <item itemvalue="Application.StreamExampleFlatHap" />
+        <item itemvalue="Application.StreamExampleMap" />
       </list>
     </recent_temporary>
   </component>
@@ -296,13 +310,13 @@
       <option name="project" value="LOCAL" />
       <updated>1694966773438</updated>
     </task>
-    <task id="LOCAL-00016" summary="Lesson 27 &#10;Only Page Object">
+    <task id="LOCAL-00016" summary="Homework 32&#10;Rozetka Top Sale PageObject">
       <option name="closed" value="true" />
-      <created>1694968147578</created>
+      <created>1695583958059</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1694968147578</updated>
+      <updated>1695583958060</updated>
     </task>
     <option name="localTasksCounter" value="17" />
     <servers />
@@ -335,7 +349,7 @@
     <MESSAGE value="Homework 29&#10;FileWriter with Rozetka case" />
     <MESSAGE value="Lesson 26" />
     <MESSAGE value="Homework 30" />
-    <MESSAGE value="Lesson 27 &#10;Only Page Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 27 &#10;Only Page Object" />
+    <MESSAGE value="Homework 32&#10;Rozetka Top Sale PageObject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 32&#10;Rozetka Top Sale PageObject" />
   </component>
 </project>

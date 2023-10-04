@@ -1,6 +1,7 @@
-package ua.page.object;
+package ua.page.object.selenium;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 
 public class SearchPageLocators {
 
