@@ -4,42 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 32&#10;Rozetka Top Sale PageObject">
-      <change afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/CategoryPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/CategoryPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/MainPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/MainPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/SearchPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenide/SearchPageLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/PracticeSelenideElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideElementCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideIsDisplayedAndExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideTestSearchElementByText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/WebDriverRunnerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/selenide/pageobject/PracticeSelenideElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/CarForStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFlatHap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleForObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamOtherMethods.java" afterDir="false" />
+    <list default="true" id="bc8bb285-e8b7-44fd-9ef4-92438ae5686c" name="Changes" comment="Homework 29&#10;Verify Good In Basket&#10;Selenide + PageObject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/MainPageLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/MainPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/MainPageLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/ProductPageLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/ProductPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/ProductPageLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/SearchPageLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/page/object/SearchPageLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/page/selenium/SearchPageLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson27/PageObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hm_28" />
+        <entry key="$PROJECT_DIR$" value="hm_29" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2TlCakyOZKjb1InvPtLbk2pbiw0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,23 +43,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/IdeaProjects/hillel_0906/src/test/java/homeworks&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/serhii/IdeaProjects/hillel_0906/src/test/java/homeworks",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/homeworks" />
@@ -98,86 +69,110 @@
       <recent name="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm29" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.page.object33hm" />
       <recent name="lesson30.streamApi" />
       <recent name="ua.page.selenide" />
       <recent name="lesson29" />
       <recent name="homeworks.hm32" />
-      <recent name="lesson26" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamExampleForObject">
-    <configuration name="StreamExampleFlatHap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleFlatHap" />
+  <component name="RunManager" selected="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId">
+    <configuration name="TestAvatarAndIdWithPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.streamApi.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithPojo" />
+      <option name="METHOD_NAME" value="testAvatarAndId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExampleForObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleForObject" />
+    <configuration name="TestAvatarAndIdWithoutPojo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.streamApi.*" />
+          <option name="PATTERN" value="lesson30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson30" />
+      <option name="MAIN_CLASS_NAME" value="lesson30.TestAvatarAndIdWithoutPojo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExampleMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleMap" />
+    <configuration name="TestAvatarAndIdWithoutPojo.testAvatarAndId (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.streamApi.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithoutPojo" />
+      <option name="METHOD_NAME" value="testAvatarAndId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExampleReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamExampleReduce" />
+    <configuration name="TestAvatarAndIdWithoutPojo.testAvatarAndId (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.streamApi.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithoutPojo" />
+      <option name="METHOD_NAME" value="testAvatarAndId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOtherMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.streamApi.StreamOtherMethods" />
+    <configuration name="TestRegistrationSuccessWithPojo.testRegistrationSuccess (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.streamApi.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestRegistrationSuccessWithPojo" />
+      <option name="METHOD_NAME" value="testRegistrationSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamExampleForObject" />
-        <item itemvalue="Application.StreamOtherMethods" />
-        <item itemvalue="Application.StreamExampleReduce" />
-        <item itemvalue="Application.StreamExampleFlatHap" />
-        <item itemvalue="Application.StreamExampleMap" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithoutPojo.testAvatarAndId (2)" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithoutPojo" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithoutPojo.testAvatarAndId (1)" />
+        <item itemvalue="TestNG.TestRegistrationSuccessWithPojo.testRegistrationSuccess (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +313,31 @@
       <option name="project" value="LOCAL" />
       <updated>1695583958060</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lesson 29+30+testNgParallel">
+      <option name="closed" value="true" />
+      <created>1696404564934</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696404564934</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Homework 30 &#10;Sorted letters">
+      <option name="closed" value="true" />
+      <created>1696445336697</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696445336697</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Homework 29&#10;Verify Good In Basket&#10;Selenide + PageObject">
+      <option name="closed" value="true" />
+      <created>1696520676183</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696520676183</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +369,9 @@
     <MESSAGE value="Lesson 26" />
     <MESSAGE value="Homework 30" />
     <MESSAGE value="Homework 32&#10;Rozetka Top Sale PageObject" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 32&#10;Rozetka Top Sale PageObject" />
+    <MESSAGE value="Lesson 29+30+testNgParallel" />
+    <MESSAGE value="Homework 30 &#10;Sorted letters" />
+    <MESSAGE value="Homework 29&#10;Verify Good In Basket&#10;Selenide + PageObject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 29&#10;Verify Good In Basket&#10;Selenide + PageObject" />
   </component>
 </project>
